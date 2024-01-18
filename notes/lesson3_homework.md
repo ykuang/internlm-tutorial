@@ -24,7 +24,7 @@
 
 按照教程步骤一步步操作, 最后 浏览器打开http://127.0.0.1:7860：
 
-![](D:/train/llm/internlm/tutorial/notes/images/lesson3_2.png)
+![](images/lesson3_2.png)
 
 
 
